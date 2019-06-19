@@ -66,7 +66,7 @@ p {
     font-size: 1.1em;
     font-weight: 300;
     line-height: 1.7em;
-    color: #999;
+    color: rgb(153, 153, 153);
 }
 
 a, a:hover, a:focus {
@@ -114,7 +114,7 @@ a, a:hover, a:focus {
 ul ul a {
     font-size: 0.9em !important;
     padding-left: 30px !important;
-    background: #6d7fcc;
+    background: #a1ade4;
 }
 
 
